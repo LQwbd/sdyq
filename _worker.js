@@ -13,7 +13,7 @@ let addresses = [
 let addressesapi = [
 	'https://cf-workers-text2kv-aqq.pages.dev/ip.txt?token=beilopuz0',
 	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt',
-	'https://www.gitgoogle.com/addressesapi.txt?token=ZYSS20240107',
+	'https://raw.githubusercontent.com/cmliu/WorkerVmess2sub/main/addressesapi.txt',
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
